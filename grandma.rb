@@ -6,7 +6,7 @@ def speak_to_grandma(word)
   elsif word.upcase
     return "NO, NOT SINCE 1938!"
 
-  elsif word.!upcase
+  elsif !word.upcase
     return "HUH?! SPEAK UP, SONNY!"
 
   end
