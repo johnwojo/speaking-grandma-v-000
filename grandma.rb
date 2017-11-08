@@ -3,6 +3,7 @@ def speak_to_grandma(word)
 if word.upcase
   puts "HUH?! SPEAK UP, SONNY!"
 end
+end
 
 
 # Whatever you say to grandma, she should respond with
