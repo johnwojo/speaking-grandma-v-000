@@ -1,8 +1,8 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(word)
-if word.upcase
+  if word.upcase
   puts "HUH?! SPEAK UP, SONNY!"
-end
+  end
 end
 
 
